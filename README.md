@@ -3,11 +3,11 @@ RRT_cs is an algorithm combine RRT_connect and RRT_star. Probability field sampl
 #### 2D world
 Main file: rrtcs_pfs_2d/main.m
 
-![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/tree/master/rrtcs_pfs_2d/Magnification #1 when iteration = 1000.jpg) 
+![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/tree/master/rrtcs_pfs_2d/Magnification #1 when iteration = 1000.jpg)
 
-![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/tree/master/rrtcs_pfs_2d/Magnification #2 when iteration = 1000.jpg) 
+![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/tree/master/rrtcs_pfs_2d/Magnification #2 when iteration = 1000.jpg)
 
-![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/tree/master/rrtcs_pfs_2d/Magnification #1 when iteration = 2000.jpg) 
+![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/tree/master/rrtcs_pfs_2d/Magnification #1 when iteration = 2000.jpg)
 
 ![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/tree/master/rrtcs_pfs_2d/Magnification #2 when iteration = 2000.jpg) 
 
@@ -18,6 +18,7 @@ Main file: rrtcs_pfs_3d/main.m
 
 #### path planning for UR robotic arm
 Main file: rrtcs_pfs_2d/main.m
+
 ![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/tree/master/rrtcs_robotarm/trajectory.jpg) 
 
 It should be noticed that probability field sampling is not realized here.
