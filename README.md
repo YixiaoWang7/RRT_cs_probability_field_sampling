@@ -5,13 +5,13 @@ Main file: rrtcs_pfs_2d/main.m
 
 ![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/blob/master/rrtcs_pfs_2d/final_path.jpg)
 
-![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/tree/master/rrtcs_pfs_2d/Magnification_#1_when_iteration=1000.jpg)
+![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/blob/master/rrtcs_pfs_2d/Magnification_%231_iteration%3D1000.jpg)
 
-![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/tree/master/rrtcs_pfs_2d/Magnification_#2_when_iteration=1000.jpg)
+![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/blob/master/rrtcs_pfs_2d/Magnification_%232_iteration%3D1000.jpg)
 
-![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/tree/master/rrtcs_pfs_2d/Magnification_#1_when_iteration=2000.jpg)
+![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/blob/master/rrtcs_pfs_2d/Magnification_%231_iteration%3D2000.jpg)
 
-![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/tree/master/rrtcs_pfs_2d/Magnification_#2_when_iteration=2000.jpg) 
+![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/blob/master/rrtcs_pfs_2d/Magnification_%232_iteration%3D2000.jpg) 
 
 #### 3D world
 Main file: rrtcs_pfs_3d/main.m
