@@ -3,6 +3,8 @@ RRT_cs is an algorithm combine RRT_connect and RRT_star. Probability field sampl
 #### 2D world
 Main file: rrtcs_pfs_2d/main.m
 
+![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/blob/master/rrtcs_pfs_2d/final_path.jpg)
+
 ![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/tree/master/rrtcs_pfs_2d/Magnification_#1_when_iteration=1000.jpg)
 
 ![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/tree/master/rrtcs_pfs_2d/Magnification_#2_when_iteration=1000.jpg)
