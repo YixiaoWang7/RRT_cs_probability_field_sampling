@@ -16,11 +16,11 @@ Main file: rrtcs_pfs_2d/main.m
 #### 3D world
 Main file: rrtcs_pfs_3d/main.m
 
-![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/tree/master/rrtcs_pfs_3d/Path.jpg) 
+![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/blob/master/rrtcs_pfs_3d/Path.jpg) 
 
 #### path planning for UR robotic arm
 Main file: rrtcs_pfs_2d/main.m
 
-![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/tree/master/rrtcs_robotarm/trajectory.jpg) 
+![Image discription](https://github.com/YixiaoWang7/RRT_cs_probability_field_sampling/blob/master/rrtcs_robotarm/trajectory.jpg) 
 
 It should be noticed that probability field sampling is not realized here.
